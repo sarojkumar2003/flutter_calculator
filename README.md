@@ -9,6 +9,7 @@ image 1
 ![image](https://github.com/sarojkumar2003/flutter_calculator/assets/90202990/da47fc30-d3a4-4d67-a2fb-236f8e38da0c)
 
 for mobile devices
+
 ![image](https://github.com/sarojkumar2003/flutter_calculator/assets/90202990/e06d71d1-b098-43c8-97ed-8e8830500e07)
 
 
